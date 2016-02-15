@@ -1,0 +1,28 @@
+name: EK Beta
+favicon: null
+layout_spectrum: 0.6127554201520979
+typography_spectrum: 0.9658877847250551
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7207036886829883
+  lightness: 0.6775196737144142
+  saturation: 0.2588297068141401
+  rhythmicContrast: 0.5990994893945754
+purpose: []
