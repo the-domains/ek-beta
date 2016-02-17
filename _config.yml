@@ -2,6 +2,7 @@ name: EK Beta
 favicon: null
 layout_spectrum: 0.6127554201520979
 typography_spectrum: 0.9658877847250551
+title: EK Beta
 cta:
   domain: null
   bucket: null
